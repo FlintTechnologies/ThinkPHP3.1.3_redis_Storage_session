@@ -1,4 +1,4 @@
-# ThinkPHP3.1.3_redis_Storage_session
+# ThinkPHP3.1.3使用redis存储session
 ThinkPHP3.1.3使用redis存储session步骤：
 
 1.配置文件修改
